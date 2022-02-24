@@ -1,0 +1,7 @@
+---
+
+ARRAYS:
+  -
+    name: GSE-FB01
+    ip-address: 172.29.10.190
+    api-token: T-f65f0fce-d606-4ebb-896a-57e6e29245a1
